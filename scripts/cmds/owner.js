@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "owner",
     version: "1.3.0",
-    author: "亗•𝘔𝘈𝘔𝘜𝘕✿᭄",
+    author: "亗•shishir✿᭄",
     role: 0,
     shortDescription: "Owner information with image",
     category: "Information",
@@ -18,17 +18,17 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : 亗•𝘔𝘈𝘔𝘜𝘕✿᭄
+│ 👤 Nᴀᴍᴇ       : 亗•SHISHIR✿᭄
 │🧸 Nɪᴄᴋ       : Vondo
-│ 🎂 Aɢᴇ        : 19+
+│ 🎂 Aɢᴇ        : 17+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : Sᴛᴜᴅᴇɴᴛ
-│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Iɴᴛᴇʀ 2ɴᴅ Yᴇᴀʀ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 🄺🄷🅄🄻🄽🄷  
+│ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Iɴᴛᴇʀ 1st Yᴇᴀʀ
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : Dhaka Mirpur   
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : https://www.facebook.com/share/171Y441F7H/
-│ 💬 Messenger: m.me/61558931578859
-│ 📞 WhatsApp  : wa.me/01830981279
+│ 📘 Facebook  : https://www.facebook.com/share/1DTzMhQffh/
+│ 💬 Messenger: m.me/61589806776925
+│ 📞 WhatsApp  : wa.me/017493---26
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
